@@ -7,3 +7,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/Betelgeu/rustlings.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/Betelgeu/learning-lm-rs.git
